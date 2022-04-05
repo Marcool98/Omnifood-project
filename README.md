@@ -1,3 +1,3 @@
 # Omnifood-project
 
-Omnifood project on Udemy 
+Omnifood project avec la formation Udemy 
